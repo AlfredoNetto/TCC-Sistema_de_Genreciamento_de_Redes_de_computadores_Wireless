@@ -1,0 +1,29 @@
+unit UServidor;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, Buttons;
+
+type
+  TFRMSERVIDOR = class(TForm)
+    LBL1: TLabel;
+    CheckBox1: TCheckBox;
+    SpeedButton1: TSpeedButton;
+    Edit1: TEdit;
+    LBL2: TLabel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FRMSERVIDOR: TFRMSERVIDOR;
+
+implementation
+
+{$R *.dfm}
+
+end.

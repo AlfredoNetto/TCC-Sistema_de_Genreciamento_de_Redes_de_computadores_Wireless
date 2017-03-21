@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/05/08 14:14:46.909.pas,C:\Users\USUARIO\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\UPrincipal.pas</Transaction>
+    <Transaction>2013/05/08 14:14:46.909.dfm,C:\Users\USUARIO\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\UPrincipal.dfm</Transaction>
+    <Transaction>2013/05/08 14:15:12.463.dproj,C:\Users\USUARIO\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\PRJSistemaGerenciamentoDeRedeWireless.dproj</Transaction>
+    <Transaction>2013/05/08 14:25:16.880.pas,C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Unit1.pas=C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\UServidor.pas</Transaction>
+    <Transaction>2013/05/08 14:25:16.880.dfm,C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Unit1.dfm=C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\UServidor.dfm</Transaction>
+    <Transaction>2013/05/08 14:55:22.497.pas,C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Unit1.pas=C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Uusuario.pas</Transaction>
+    <Transaction>2013/05/08 14:55:22.497.dfm,C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Unit1.dfm=C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Uusuario.dfm</Transaction>
+    <Transaction>2013/05/08 15:36:22.685.pas,C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Unit1.pas=C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Usobre.pas</Transaction>
+    <Transaction>2013/05/08 15:36:22.685.dfm,C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Unit1.dfm=C:\Users\USUARIO\Desktop\Netto\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Usobre.dfm</Transaction>
+    <Transaction>2013/06/04 19:01:04.984.pas,C:\Users\USUARIO\Desktop\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Unit1.pas=C:\Users\USUARIO\Desktop\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\UAjuda.pas</Transaction>
+    <Transaction>2013/06/04 19:01:04.998.dfm,C:\Users\USUARIO\Desktop\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Unit1.dfm=C:\Users\USUARIO\Desktop\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\UAjuda.dfm</Transaction>
+    <Transaction>2013/06/04 19:44:11.392.pas,C:\Users\USUARIO\Desktop\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Unit1.pas=C:\Users\USUARIO\Desktop\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\UPreferencias.pas</Transaction>
+    <Transaction>2013/06/04 19:44:11.392.dfm,C:\Users\USUARIO\Desktop\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\Unit1.dfm=C:\Users\USUARIO\Desktop\TCC-Sistema de Genreciamento de Redes de computadores Wireless\Projeto\UPreferencias.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

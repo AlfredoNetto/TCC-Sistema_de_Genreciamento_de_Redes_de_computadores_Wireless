@@ -1,0 +1,16 @@
+program PRJSistemaGerenciamentoDeRedeWireless;
+
+uses
+  Forms,
+  UPrincipal in 'UPrincipal.pas' {FRMSISTEMAPRINCIPAL},
+  UServidor in 'UServidor.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFRMSISTEMAPRINCIPAL, FRMSISTEMAPRINCIPAL);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

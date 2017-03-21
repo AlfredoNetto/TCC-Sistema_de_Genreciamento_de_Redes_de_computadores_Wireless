@@ -1,0 +1,44 @@
+object FRMSUPORTE: TFRMSUPORTE
+  Left = 0
+  Top = 0
+  Caption = 'Suporte'
+  ClientHeight = 390
+  ClientWidth = 712
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label4: TLabel
+    Left = 8
+    Top = 328
+    Width = 120
+    Height = 13
+    Caption = 'For Windows XP/7/8'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'MS Sans Serif'
+    Font.Style = [fsBold]
+    ParentFont = False
+    Transparent = True
+  end
+  object Label1: TLabel
+    Left = 8
+    Top = 24
+    Width = 47
+    Height = 16
+    Caption = 'Sobre :'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clBlack
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+end

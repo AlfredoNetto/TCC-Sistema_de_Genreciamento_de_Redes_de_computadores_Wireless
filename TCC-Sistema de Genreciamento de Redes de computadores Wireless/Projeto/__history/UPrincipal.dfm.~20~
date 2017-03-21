@@ -1,0 +1,60 @@
+object FRMSISTEMAPRINCIPAL: TFRMSISTEMAPRINCIPAL
+  Left = 0
+  Top = 0
+  Caption = 'Sistema De Gerenciamento De Redes Wireless'
+  ClientHeight = 384
+  ClientWidth = 553
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Menu = MainMenu1
+  OldCreateOrder = False
+  WindowState = wsMaximized
+  OnClose = FormClose
+  PixelsPerInch = 96
+  TextHeight = 13
+  object MainMenu1: TMainMenu
+    Left = 8
+    Top = 16
+    object ServidorLocal1: TMenuItem
+      Caption = 'Servidor Local'
+      object PainelDeControle1: TMenuItem
+        Caption = 'Iniciar Servidor'
+        OnClick = PainelDeControle1Click
+      end
+      object ConectarServidor1: TMenuItem
+        Caption = 'Conectar Servidor'
+      end
+      object DesconectarServidor1: TMenuItem
+        Caption = 'Desconectar Servidor '
+      end
+      object UsuariosConectados1: TMenuItem
+        Caption = 'Usuarios Conectados'
+        OnClick = UsuariosConectados1Click
+      end
+    end
+    object PainelDeControle2: TMenuItem
+      Caption = 'Painel De Controle '
+      object RekatorioDeTrfego1: TMenuItem
+        Caption = 'Relatorio De Tr'#225'fego'
+      end
+      object Preferenciasi1: TMenuItem
+        Caption = 'Prefer'#234'ncias'
+      end
+      object Sobre1: TMenuItem
+        Caption = 'Sobre'
+        OnClick = Sobre1Click
+      end
+    end
+    object Ajuda1: TMenuItem
+      Caption = 'Ajuda'
+    end
+    object FecharAplicativo1: TMenuItem
+      Caption = 'Fechar Aplicativo '
+      OnClick = FecharAplicativo1Click
+    end
+  end
+end

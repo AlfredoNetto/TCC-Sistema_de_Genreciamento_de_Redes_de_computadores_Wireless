@@ -1,0 +1,24 @@
+unit UServidor;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs;
+
+type
+  TFRMSERVIDOR = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FRMSERVIDOR: TFRMSERVIDOR;
+
+implementation
+
+{$R *.dfm}
+
+end.
